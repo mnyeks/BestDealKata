@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # The Best of Deals
 
 ## Avo, is it me you’re looking for?
