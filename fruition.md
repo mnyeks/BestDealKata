@@ -4,6 +4,8 @@ layout: default
 
 ## Fruition
 
+![](./img/orange-and-apple.png)
+
 > Use JavaScript to read a JSON file of data, loop through it, use maps.
 
 We want to find the best place to buy several types fruit: apples, bananas, and oranges. We like fruit. It is delicious. Another computer programmer has given us this information, in `JSON` format:
