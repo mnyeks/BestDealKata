@@ -7,7 +7,6 @@
 
 # Site settings
 title: The Best Of Deals
-baseurl: /BestDealKata
 
 # Build settings
 markdown: kramdown
