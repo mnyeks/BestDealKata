@@ -10,7 +10,7 @@ layout: default
 
 We want to find the best place to buy several types fruit: apples, bananas, and oranges. We like fruit. It is delicious. Another computer programmer has given us this information, in `JSON` format:
 
-{% highlight json %}
+```json
 {
   "woolingsworth": {
     "apple": 4,
@@ -29,7 +29,7 @@ We want to find the best place to buy several types fruit: apples, bananas, and 
     "oranges": 7
   }
 }
-{% endhighlight %}
+```
 
 Write functions that:
 
