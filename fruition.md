@@ -6,14 +6,11 @@ layout: default
 
 ![](./img/orange-and-apple.png)
 
-> Use JavaScript to:
-* read a JSON file of data,
-* loop through it,
-* use maps.
+> Use JavaScript to: read a JSON file of data; loop through it; use maps.
 
 We want to find the best place to buy several types fruit: apples, bananas, and oranges. We like fruit. It is delicious. Another computer programmer has given us this information, in `JSON` format:
 
-{% highlight json %}
+```json
 {
   "woolingsworth": {
     "apple": 4,
@@ -32,9 +29,9 @@ We want to find the best place to buy several types fruit: apples, bananas, and 
     "oranges": 7
   }
 }
-{% endhighlight %}
+```
 
-Write functions that:
+Use TDD and write functions that:
 
 * find the seller of the cheapest oranges;
 * return the prices and sellers of apples, order ascending by price;
