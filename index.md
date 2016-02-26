@@ -8,10 +8,7 @@ layout: default
 
 ![](./img/avo.png)
 
-> Use JavaScript to:
-* parse strings and convert them to numbers,
-* loop through an array,
-* compare the result of calculations.
+> Use JavaScript to: parse strings and convert them to numbers; loop through an array; compare the result of calculations.
 
 We want to find the best place to buy some avocados. We like avocados because they are green. The supermarket has a set of different, slightly odd, offers for avos. A friend of ours has been hanging, staring at them, and has sent us this message:
 
