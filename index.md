@@ -16,7 +16,7 @@ We want to find the best place to buy some avocados. We like avocados because th
 "1 for R3, 2 for R7, 3 for R 10, 5 for R14.50."
 ```
 
-Use this string as your starting point. Write functions that:
+Use this string as your starting point. Use TDD and write functions that:
 
 * convert the string into an array (split out the quantity and the price);
 * take an array as an input and calculate the Price Per Avo for each deal (make sure you use just two decimal points);

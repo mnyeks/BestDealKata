@@ -31,7 +31,7 @@ We want to find the best place to buy several types fruit: apples, bananas, and 
 }
 ```
 
-Write functions that:
+Use TDD and write functions that:
 
 * find the seller of the cheapest oranges;
 * return the prices and sellers of apples, order ascending by price;
