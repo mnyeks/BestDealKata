@@ -13,7 +13,7 @@ layout: default
 We want to find the best place to buy some avocados. We like avocados because they are green. The supermarket has a set of different, slightly odd, offers for avos. A friend of ours has been hanging, staring at them, and has sent us this message:
 
 ```
-"1 for R3, 2 for R7, 3 for R 10, 5 for R14.50."
+"1 for R3, 2 for R7, 3 for R10, 5 for R14.50."
 ```
 
 Use this string as your starting point. Use TDD and write functions that:
