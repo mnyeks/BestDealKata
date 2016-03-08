@@ -1,12 +1,12 @@
-function findTheString() {
+function findTheString(avoStr) {
      
-    var avoStr = ["1 for R3, 2 for R7, 3 for R10, 5 for R14.50."];
+    // var avoStr = ["1 for R3, 2 for R7, 3 for R10, 5 for R14.50."];
 
     
          var string = avoStr.split(",");
+           return string;
 
-
-     var avoList = [];
+   var avoList = [];
      
      //for(var i = 0; i < findTheString.length; i++) {
          //var bestPlace = findTheString[i];
