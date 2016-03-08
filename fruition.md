@@ -13,20 +13,30 @@ We want to find the best place to buy several types fruit: apples, bananas, and 
 ```json
 {
   "woolingsworth": {
-    "apple": 4,
+    "apples": 4,
     "bananas": 3,
     "oranges": 12
   },
 
   "chockers": {
     "bananas": 2,
-    "apple": 5,
+    "apples": 5,
     "oranges": 4
   },
 
   "pickle pay": {
     "bananas": 4,
     "oranges": 7
+  },
+
+  "shopwrong": {
+    "apples": 2,
+    "bananas": 3
+  },
+
+  "kwakspar": {
+    "oranges": 9,
+    "apples": 4
   }
 }
 ```
@@ -37,4 +47,5 @@ Use TDD and write functions that:
 * return the prices and sellers of apples, order ascending by price;
 * return the prices and sellers of apples, order descending by price;
 * return the cheapest fruit;
-* return the seller of the cheapest fruit.
+* return the seller of the fruit with the lowest price;
+* return all the shops that sell oranges.
